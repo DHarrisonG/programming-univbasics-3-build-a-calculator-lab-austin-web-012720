@@ -21,5 +21,5 @@ num2 - xy
 end
 
 def square_root(num)
-num1  num2
+
 end
